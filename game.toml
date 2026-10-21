@@ -1,0 +1,5 @@
+[game]
+output_prefix = "balloon_fight"
+cycle_accurate = true
+console = "nes"
+cycle_seed_file = "tests/cycle-seeds.txt"
