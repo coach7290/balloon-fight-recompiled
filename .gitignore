@@ -1,0 +1,18 @@
+# Owner-supplied game data and all generated game code stay local.
+private/
+build*/
+.deps/
+captures/
+reports/
+*.nes
+*.fds
+*.chr
+*.rom
+*.zip
+*.sav
+*.cycstate
+*.wav
+__pycache__/
+.DS_Store
+.venv/
+CMakeUserPresets.json
