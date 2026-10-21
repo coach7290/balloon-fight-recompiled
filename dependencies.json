@@ -1,0 +1,7 @@
+{
+  "nesrecomp": {
+    "repository": "https://github.com/mstan/nesrecomp.git",
+    "commit": "5a2eddeecc646e9325bef53f3c711e119423f99c",
+    "license": "PolyForm-Noncommercial-1.0.0"
+  }
+}
